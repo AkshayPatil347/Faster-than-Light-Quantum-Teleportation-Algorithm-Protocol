@@ -7,5 +7,6 @@ Teleportation of Quantum State is instanteneously i.e. as soon as Alice measures
 
 https://www.researchgate.net/publication/391449075_Faster_Than_Light_Quantum_Teleportation_between_Alice_and_Bob_of_Bits_0_and_1_Akshay_Patil_Founder_and_CEO_of_Heisenberg_Quantum_AI
 
+PS- For 3 Qubit Faster than light Quantum Teleportation Protocol implemented the comments are not changed and kept the same as 12 qubit case , but only necessary changes are made , may be i will do it sometime later , for now kindly bear with it , other than that the implementation is valid for 3 qubit case.
 
 # All rights reserved @ Heisenberg Quantum AI.
